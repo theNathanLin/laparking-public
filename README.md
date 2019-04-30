@@ -1,2 +1,2 @@
-# laparking-public
+# laparking
 LA Parking Citations
